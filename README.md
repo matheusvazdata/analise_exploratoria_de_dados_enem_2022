@@ -1,4 +1,4 @@
-# Análise Exploratória do ENEM 2022
+# Análise Exploratória de Dados do ENEM 2022
 
 ## Descrição do Projeto
 Este projeto de Jupyter Notebook realiza uma análise exploratória detalhada de um conjunto de dados específico. O objetivo principal é extrair insights significativos que podem auxiliar em decisões estratégicas e operacionais. O notebook inclui várias fases de manipulação, visualização e interpretação de dados.
